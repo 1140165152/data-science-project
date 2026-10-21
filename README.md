@@ -50,5 +50,5 @@ This project analyzes a medical insurance dataset to answer the question:
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/<your-username>/data-science-project.git
+git clone https://github.com/1140165152/data-science-project.git
 cd data-science-project
